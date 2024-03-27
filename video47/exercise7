@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download UltraEdit text editor for Windows</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="https://www.ultraedit.com/wp-content/uploads/2023/01/UE-Logo-1.webp" alt="">
+            </div>
+            <div class="right">
+                <ul>
+                    <li>Product<img src="https://cdn.hugeicons.com/icons/arrow-down-01-stroke-rounded.svg"
+                            alt="arrow-down-01" width="20" height="24" /></li>
+                    <li>Pricing<img src="https://cdn.hugeicons.com/icons/arrow-down-01-stroke-rounded.svg"
+                            alt="arrow-down-01" width="20" height="24" /></li>
+                    <li>Resources<img src="https://cdn.hugeicons.com/icons/arrow-down-01-stroke-rounded.svg"
+                            alt="arrow-down-01" width="20" height="24" /></li>
+                    <li>About Us<img src="https://cdn.hugeicons.com/icons/arrow-down-01-stroke-rounded.svg"
+                            alt="arrow-down-01" width="20" height="24" /></li>
+                    <li><img src="https://www.ultraedit.com/wp-content/themes/Divi_Child/img/Lang.png);" alt=""></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="first">
+            <span>
+                Download <b>UltraEdit</b> for Windows <img
+                    src="https://www.ultraedit.com/wp-content/uploads/2022/10/Reviews.png" alt="">
+            </span>
+            <p> Download and try UltraEdit before you buy it! This download includes the full Windows
+                version of the text editor.</p>
+            <button> DOWNLOAD MAC OR LINUX VERSION</button>
+        </section>
+        <section class="second">
+            <div class="download">
+                <img src="https://www.ultraedit.com/wp-content/uploads/2022/11/UE.png" alt="">
+                <span>Download UltraEdit </span>
+                <span class="small">v2023.1(released 08/16/2023) | Hotfix</span>
+            </div>
+
+            <div class="grid"> 
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                <div class="item">
+                    <div class="item-lang">English</div>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 32-bit</a></button>
+                    <button class="btn blue"><a href="/ue_english.exe">Download 64-bit</a></button> 
+                </div>
+                 
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>

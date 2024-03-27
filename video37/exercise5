@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul class="navbar">
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="boxes">
+            <div class="box1">
+                <h2>I am box 1</h2>
+            </div>
+            <div class="box2">
+                <h2>I am box 2</h2>
+            </div>
+        </div>
+        <div class="intro">
+            <div class="box3">
+                <h1>Wellcome to this Sigma Web Development Express</h1>
+            </div>
+        </div>
+        <div class="logo">
+            <img width="120px" src="https://e7.pngegg.com/pngimages/700/156/png-clipart-organization-professional-logo-junior-frontend-developer-freelancer-internal-revenue-service-blue-text.png" alt="">
+        </div>
+    </main>
+    <footer>
+        <div class="footer">&copy;copyright-2023</div>
+    </footer>
+</body>
+
+</html>
